@@ -4,3 +4,5 @@
 #### h4
 ##### h5
 ###### h6
+
+![alt-text](https://octodex.github.com/images/yaktocat.png)
