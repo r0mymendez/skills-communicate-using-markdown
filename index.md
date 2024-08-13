@@ -6,3 +6,12 @@
 ###### h6
 
 ![alt-text](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` python
+myVar = "Hello, world!";
+```
